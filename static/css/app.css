@@ -255,6 +255,7 @@
 }
 
 #output {
+  position: relative;
   left: 0px;
   top: 256px;
   bottom: 0px;
